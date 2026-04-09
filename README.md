@@ -1,6 +1,6 @@
 # About
 
-Using this simple cmd program you can  **easly get extended updates** for Windows 11 supported PC that Microsoft will force upgrade to the newest version.
+Using this simple cmd program you can  **easly get extended updates** for Windows 10 on 11 supported PC that Microsoft will force upgrade to the newest version. This relies on changing some regestry strings that usually shouldn't break a normal windows 10 device.
 
 # How to
 
@@ -11,13 +11,13 @@ Using this simple cmd program you can  **easly get extended updates** for Window
 
 # Why won't work?
 
-* Because you have an **Virtual PC Windows version or an SE one**
+* Because you have an **Virtual PC Windows version, an SE (School Edition) or a Windows Server install**
 * Beacuse cmd is turned off by your administrator (Refer to the help section)
-* Because you run a To Go Windows (Windows on external drive)
+* Because you run a To Go Windows (Windows on an external drive)
 
 # Disclaimer
 
-I am not responsible for any hardware or software damage. 
+I am not responsible for any software damage. 
 ****Use at your own risk!****
 
 # Help!
